@@ -1,0 +1,42 @@
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{  
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.table,th,td{
+    border: 1px solid black;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}.text-right{
+    text-align: right;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+.logo{
+    
+    width: 30% ;
+    float: left;
+}
+.menu{
+    line-height: 60px;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
